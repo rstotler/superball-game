@@ -1,0 +1,2 @@
+rootProject.name = "SuperBall"
+include ':app'
